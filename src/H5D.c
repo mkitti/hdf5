@@ -2276,7 +2276,7 @@ done:
  *            const hsize_t *offset,
  *            uint32_t filter_mask,
  *            haddr_t addr,
- *            uint32_t nbytes,
+ *            uint32_t size,
  *            void *op_data);
  *
  *      H5D_chunk_iter_op_t parameters:
